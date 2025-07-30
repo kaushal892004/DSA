@@ -1,6 +1,4 @@
-// If ElseIf
-
-// Given marks of a student, print on the screen:
+//Problem : Given marks of a student, print on the screen:
 
 // Grade A if marks >= 90
 // Grade B if marks >= 70
