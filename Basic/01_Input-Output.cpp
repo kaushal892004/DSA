@@ -1,6 +1,4 @@
-// Input Output
-
-// Complete the function printNumber which takes an integer input from the user and prints it on the screen.
+//Problem :  Complete the function printNumber which takes an integer input from the user and prints it on the screen.
 
 // Examples:
 // Input(user gives value): 7
